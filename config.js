@@ -1,5 +1,4 @@
 const fs = require('fs')
-const chalk = require('chalk')
 const axios = require('axios');
 const moment = require('moment-timezone')
 const version = require("@whiskeysockets/baileys/package.json").version 
