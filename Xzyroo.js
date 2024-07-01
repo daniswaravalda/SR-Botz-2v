@@ -1544,7 +1544,7 @@ global.motivasi = [
 ]
 /*============== RANDOM VID 🗿==============*/
 
-_global.asupan = [
+global.asupan = [
 "https://b.top4top.io/m_1931yxodg0.mp4",
 "https://k.top4top.io/m_193161p380.mp4",
 "https://l.top4top.io/m_1931i4g3p1.mp4",
@@ -2204,7 +2204,7 @@ _global.asupan = [
 "https://g.top4top.io/m_1967uvzs61.mp4"
 ]
 /*============== RANDOM IMAGE 🗿==============*/
-_global.gamanaufal = [
+global.gamanaufal = [
 	'https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg',
 	'https://telegra.ph/file/05c1b22ee83bcd7723b4d.jpg',
 	'https://telegra.ph/file/1d886f66a44871205335f.jpg',
@@ -2537,7 +2537,7 @@ _global.gamanaufal = [
 	"https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg"
 ]
 
-_global.yuri = [
+global.yuri = [
 
    "https://konachan.com/image/e137c359f365f112573f76eee499e41d/Konachan.com%20-%20317364%202girls%20bed%20breasts%20censored%20naga_%28pixiv%29%20nipples%20nude%20pussy%20shinobu_akira%20tears%20tokiwa_nanaka%20translation_request%20tribadism%20white%20yuri.jpg",
     "https://konachan.com/image/87a2d73ac859e02cdb0fabe8f16d345e/Konachan.com%20-%20297889%202girls%20aqua_eyes%20bed%20blue_hair%20blush%20breasts%20censored%20dildo%20gloves%20long_hair%20navel%20nipples%20nude%20passionlip%20pussy%20ribbons%20thighhighs%20wei_yu%20yuri.png",
@@ -2699,7 +2699,7 @@ _global.yuri = [
     "https://konachan.com/image/cd3e3e928f2a343a1ce0674493017e20/Konachan.com%20-%20279799%202girls%20animal_ears%20blush%20breasts%20brown_hair%20censored%20fingering%20gray_hair%20microphone%20nipples%20panty_pull%20pantyhose%20pussy%20thighhighs%20twintails%20urine%20yuri.jpg",
     "https://img2.gelbooru.com/images/9a/9a/9a9aba73a9401f5062215b24fbe8cbc2.jpeg"
 ]
-_global.konachan = [
+global.konachan = [
 
   "https://konachan.com/sample/79580dfece36d208c76d55fe22ca21ec/Konachan.com%20-%20316451%20sample.jpg",
     "https://konachan.com/sample/737a707688c52fdfdd74797e76d67ee2/Konachan.com%20-%20316192%20sample.jpg",
@@ -2761,7 +2761,7 @@ _global.konachan = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771015661089980427/1634-pjF5xdLo3WU.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/771026536094629908/e731a0dc-9755-402f-af98-4b00717bcb1e.png"
 ]
-_global.manga = [
+global.manga = [
 
   "https://cdn.discordapp.com/attachments/770948564947304448/770950443089264650/00004-VNJ6qrF23KQ.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/770951666174132224/05.jpg",
@@ -2818,7 +2818,7 @@ _global.manga = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771374923499175936/00425-UgxpF5O-SSs.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/771374932352303124/00426-zmmGnSPzAMw.jpg"
 ]
-_global.masturbation = [
+global.masturbation = [
 
        "https://media.discordapp.net/attachments/527959815717388299/740760092256763963/sample_64474316af46cc1241013d465fea986111abd85e.jpg",
     "https://media.discordapp.net/attachments/527959815717388299/744277346470854857/IMG_1584.JPG?width=577&height=834",
@@ -2948,7 +2948,7 @@ _global.masturbation = [
     "https://konachan.com/image/326a628ca22a90db52ba10ca33f3b0c0/Konachan.com%20-%20294303%20ass%20dark%20fingering%20idolmaster%20idolmaster_cinderella_girls%20masturbation%20panties%20phone%20pussy_juice%20sunaba_suzume%20underwear%20yumemi_riamu.jpg",
     "https://konachan.com/image/1fd2cebbdc055ec037c6997dbfe41502/Konachan.com%20-%20286054%20black_hair%20blush%20breast_hold%20breasts%20fingering%20masturbation%20nipples%20original%20panties%20pussy_juice%20shirt_lift%20skirt_lift%20toenketsu%20underwear.jpg"
 ]
-_global.ometv = [
+global.ometv = [
 
       "https://i.top4top.io/m_2341xq9cq0.mp4",
       "https://k.top4top.io/m_2341fb4jm0.mp4",
@@ -2964,7 +2964,7 @@ _global.ometv = [
       "https://j.top4top.io/m_2341x8erk1.mp4",
       "https://j.top4top.io/m_2344852jl1.mp4",  
 ]
-_global.orgy = [
+global.orgy = [
 
 
     "https://media.discordapp.net/attachments/531827568966631425/683171889190797313/BQY3GFi_d.jpg",
@@ -3189,7 +3189,7 @@ _global.orgy = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771373045550022686/3ca192a6-073d-4693-ba1f-87189202c04e.gif",
     "https://media.discordapp.net/attachments/531827568966631425/539913500722724864/cf2646eee9d96c3a1ae8d46bd064da82.png"
 ]
-_global.paptt = [
+global.paptt = [
  "https://telegra.ph/file/5c62d66881100db561c9f.mp4",
  "https://telegra.ph/file/a5730f376956d82f9689c.jpg",
  "https://telegra.ph/file/8fb304f891b9827fa88a5.jpg",
@@ -3204,7 +3204,7 @@ _global.paptt = [
  "https://telegra.ph/file/d8b79ac5e98796efd9d7d.jpg",
  "https://telegra.ph/file/267744a1a8c897b1636b9.jpg",
  ]
-_global.pussy = [
+global.pussy = [
 
 
     "https://konachan.com/sample/f9fa53d9c84cb91e888ffebbaadb60dd/Konachan.com%20-%20314894%20sample.jpg",
@@ -3251,7 +3251,7 @@ _global.pussy = [
     "https://cdn.discordapp.com/attachments/707201738255368194/771861611995463730/z4EdGoMSXwaMwrb6SSLu56WBCcGI7Kfk8s0L4kxgBi8.png",
     "https://cdn.discordapp.com/attachments/707201738255368194/771861644044271677/EbQUWvvWoAk90ng.png"
 ]
-_global.viral = [
+global.viral = [
 "https://telegra.ph/file/f9f3d01fead02386e5331.mp4",
 "https://telegra.ph/file/d1d7b11f5ab57b3e57d01.mp4",
 "https://telegra.ph/file/11e0d15aac245accb6217.mp4",
@@ -3269,7 +3269,7 @@ _global.viral = [
       "https://f.top4top.io/m_23441a9rx1.mp4",
  "https://d.top4top.io/m_234461kmn0.mp4"
 ]
-_global.hnt_gifs = [
+global.hnt_gifs = [
 
  "https://media.discordapp.net/attachments/531827568966631425/637014480550756373/image0.gif",
     "https://media.discordapp.net/attachments/531827568966631425/616189280141967360/lusciousnet_lusciousnet_bondage-girls-in-shackles_pervifycom_2034258317.gif",
@@ -3300,7 +3300,7 @@ _global.hnt_gifs = [
     "https://cdn.discordapp.com/attachments/707201738255368194/771800934144933958/DelayedSlowDamselfly-mobile.gif",
     "https://cdn.discordapp.com/attachments/707201738255368194/771800955855044668/CoordinatedSlipperyAcornwoodpecker-mobile.gif"
 ]
-_global.foot = [
+global.foot = [
 
     "https://konachan.com/sample/6b56f616636dee37b9cd7a3f4286bb9c/Konachan.com%20-%20316447%20sample.jpg",
     "https://konachan.com/sample/d85db565ce195e5fbc3fcc4045f80fe0/Konachan.com%20-%20313418%20sample.jpg",
@@ -3318,7 +3318,7 @@ _global.foot = [
     "https://cdn.discordapp.com/attachments/707201738255368194/771374024001454090/yande.png",
     "https://cdn.discordapp.com/attachments/707201738255368194/771376251931590747/Q0Vc8.png"
 ]
-g_lobal.gangbang = [
+global.gangbang = [
 
   "https://img2.gelbooru.com/samples/34/45/sample_34459111cb632e38a8c40ee942ddf843.jpg",
     "https://img2.gelbooru.com/images/31/e7/31e7c44931e7448f4181031594182ed9.jpg",
@@ -3382,7 +3382,7 @@ g_lobal.gangbang = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771016825914916894/1725-XhHmtbknnmQ.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/771030693425053726/382f3175-dcff-439c-89fb-309ed04d52fd.jpg"
 ]
-_global.glasses = [
+global.glasses = [
 
 "https://media.discordapp.net/attachments/556959468252954634/694944530285199440/image0-2.jpg",
   "https://media.discordapp.net/attachments/556959468252954634/704130759199293580/image0.png",
@@ -3442,7 +3442,7 @@ _global.glasses = [
   "https://media.discordapp.net/attachments/556959468252954634/603283626225827900/image0.jpg",
   "https://media.discordapp.net/attachments/556959468252954634/706739518522523658/image0.jpg"
 ]
-_global.hentai = [
+global.hentai = [
 
 "https://media.discordapp.net/attachments/527958344921514004/682392150004203556/Yt3hls8_d.jpg",
     "https://media.discordapp.net/attachments/527958344921514004/682383171970531518/1i1cwipuibj41.jpg",
@@ -3601,7 +3601,7 @@ _global.hentai = [
     "https://cdn.discordapp.com/attachments/716326877488349275/772539305687908412/jQD7xDpl27k.jpg",
     "https://cdn.discordapp.com/attachments/716326877488349275/772539306166190140/kKcvcYiN9Ck.jpg"
 ]
-_global.hinata = [
+global.hinata = [
 
         "https://i.pinimg.com/originals/80/49/a9/8049a9a90dfb9e912e54dbf66084b6c6.jpg",
         "https://i.pinimg.com/originals/57/ae/9a/57ae9a373318e844c4e5732f09e5acb8.jpg",
@@ -3704,7 +3704,7 @@ _global.hinata = [
         "https://i.pinimg.com/736x/e2/1a/45/e21a45c26afcc573138ccace83decea7.jpg",
         "https://i.pinimg.com/originals/a3/e3/4c/a3e34c8ae476308041c00ef1f6fcd90c.jpg"
 ]
-_global.femdom = [
+global.femdom = [
 
  "https://media.discordapp.net/attachments/516059858924208138/681659736759861318/image0_6.jpg",
     "https://media.discordapp.net/attachments/516059858924208138/681658400810991650/lusciousnet_lusciousnet_hentai-a-small-facesitting-album-x-p_160480173_1.jpg",
@@ -3752,7 +3752,7 @@ _global.femdom = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771016911948611624/1728-J6EgZMRLOYs.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/771023805438623784/Hentai_Nation_592.jpg"
 ]
-_global.ero = [
+global.ero = [
 
     "https://media.discordapp.net/attachments/527959391446761473/682672218207027260/A9I9FLW_d.jpg",
     "https://media.discordapp.net/attachments/527959391446761473/681855421245554708/J4gfxcR_d.jpg",
@@ -3880,7 +3880,7 @@ _global.ero = [
     "https://cdn.discordapp.com/attachments/707201738255368194/771861594694352926/4a61e5528a0d1efb0ed163edc4cd31c1.png",
     "https://cdn.discordapp.com/attachments/707201738255368194/771861708267585596/qakn1osmum451.png"
 ]
-_global.animecum = [
+global.animecum = [
 
   "https://media.discordapp.net/attachments/480750844363538433/682844580265197608/yande.re_492406_sample_anus_ass_breasts_cum_fellatio_gangbang_handjob_heels_horns_maid_no_bra_nopan_.jpg",
     "https://media.discordapp.net/attachments/480750844363538433/682844300521766932/image0.jpg",
@@ -4073,7 +4073,7 @@ _global.animecum = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771374675946897408/00446-kTcnNdtJZec.jpg",
     "https://cdn.discordapp.com/attachments/707201738255368194/771861442127331388/8I2eO9j.png"
 ]
-_global.cuckold = [
+global.cuckold = [
 
 "https://external-preview.redd.it/u5s6LYlHNzp1vGMkBpp_lpF31vn74g1aLd0cT3n69nk.jpg?width=640&height=905&crop=smart&auto=webp&s=330c2b07c7d20e0d29c8d633bd448df84372ef12",
     "https://i.redd.it/svlfk6pjpoa51.jpg",
@@ -4123,7 +4123,7 @@ _global.cuckold = [
     "https://konachan.com/sample/2009598d749a5a111e61d5c65e3c757c/Konachan.com%20-%20317279%20sample.jpg",
     "https://konachan.com/sample/747b76bfb23f7903019da58fb09bea9b/Konachan.com%20-%20316633%20sample.jpg"
 ]
-_global.cosplay = [
+global.cosplay = [
 			"https://cdn.nekobot.xyz/e/9/6/ffc914822489a51b2946e5d2f150b.jpg",
             "https://cdn.nekobot.xyz/b/9/a/114079157c091a632f839c93bf546.jpg",
             "https://i0.nekobot.xyz/4/0/0/a26b285804a922d7a155523b23f32.jpg",
@@ -4202,7 +4202,7 @@ _global.cosplay = [
             "https://media.discordapp.net/attachments/1017089820369100872/1020352355490877530/20220530_015248.jpg",
             "https://media.discordapp.net/attachments/1017089820369100872/1020352355838984313/20220531_003114.jpg"
 ]
-_global.animeblowjob = [
+global.animeblowjob = [
 
   "https://konachan.com/sample/79580dfece36d208c76d55fe22ca21ec/Konachan.com%20-%20316451%20sample.jpg",
     "https://konachan.com/sample/737a707688c52fdfdd74797e76d67ee2/Konachan.com%20-%20316192%20sample.jpg",
@@ -4264,7 +4264,7 @@ _global.animeblowjob = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771015661089980427/1634-pjF5xdLo3WU.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/771026536094629908/e731a0dc-9755-402f-af98-4b00717bcb1e.png"
 ]
-_global.animebdsm = [
+global.animebdsm = [
    "https://media.discordapp.net/attachments/531827668002275328/682642520060330037/fdbiq6ovshj41.jpg",
     "https://media.discordapp.net/attachments/531827668002275328/682430717652893754/62brFYV_d.jpg",
     "https://media.discordapp.net/attachments/531827668002275328/682747340041224248/4Gg9Cp2_d.jpg",
@@ -4411,7 +4411,7 @@ _global.animebdsm = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771017155272507412/1758-DcgdH3kfJTY.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/771017302874390558/1814-5G-g9PY315s.jpg"
 ]
-_global.animeass = [
+global.animeass = [
 
    "https://media.discordapp.net/attachments/530635618003451904/683209653261303808/yande.re_613351_sample_ass_azur_lane_cameltoe_damao_yu_feet_pantsu_stockings_taihou_azur_lane_thighh.jpg",
     "https://media.discordapp.net/attachments/530635618003451904/683209648664215585/yande.re_612976_sample_4min_ass_azur_lane_cameltoe_dido_azur_lane_erect_nipples_maid_no_bra_pantsu_s.jpg",
@@ -4593,7 +4593,7 @@ _global.animeass = [
     "https://cdn.discordapp.com/attachments/707201738255368194/771377721699074048/947c1173cccc094affd65ba4d1c817b5.png",
     "https://i.imgur.com/1JJpaxX.jpg",
 ]
-_global.ahegao = [
+global.ahegao = [
 
     "https://cdn.discordapp.com/attachments/770948564947304448/770950434180956160/004-7FVbFKsy0Z0.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/770950436122525716/3d763900d18610184bdf6cc30102150f.jpg",
@@ -4635,7 +4635,7 @@ _global.ahegao = [
     "https://cdn.discordapp.com/attachments/770948564947304448/771374948978524161/427-YLirbUpKQeY.jpg",
     "https://cdn.discordapp.com/attachments/770948564947304448/771374956008833045/428-AAiKa5S2XDM.jpg",
 ]
-_global.bokep = [
+global.bokep = [
 'Nama : DilaPye Colmek\nFoto : -\nVideo : 1\nSize : 90 MB\nDurasi : 5 Menit\nKualitas : HD\nRate : ⭐⭐⭐⭐\n\nDownload Link\nDownload : https://drive.google.com/file/d/1We9TeG1whjz2bmNCrahctK1-Hiy3BtWN/view \n PASSWORD FILE : AA18+#29',
 'Nama : Missluttyv SMA\nFoto : -\nVideo : 3\nSize : 74 MB\nDurasi : - Menit\nKualitas : HD\nRate : ⭐⭐⭐\n\nDownload Link\nDownload : https://drive.google.com/file/d/1TodhXRAHt6MHMqS2-3DYmCQoIFe7yuI-/view \nPASSWORD FILE : AA18+#21',
 'Nama : Arce\nFoto : 114\nVideo : 16\bSize : 64 MB\nDurasi : - Menit\nKualitas : HD\nRate : ⭐⭐⭐⭐\n\nDownload Link\nDownload : https://drive.google.com/file/d/1SwXbmd2sXnYSNYmn_tdCiaBsHHXjYvQM/view \nPASSWORD FILE : AA18+#6',
@@ -4664,7 +4664,7 @@ _global.bokep = [
 'Nama : Vierannii\nFoto : 95\nVideo : -\nSize : 12 MB\nDurasi : - Menit\nKualitas : HD\nRate : ⭐⭐⭐⭐\n\nDownload Link\nDownload : https://drive.google.com/file/d/1lrOIZFT1n5XWqkX5uVq7xmmSpKjX70Mf/view\nPassword file : AA18+#47',
 ]
 //KALAU MAU TAMBAHIN JUGA BISA
-_global.stick = [
+global.stick = [
 'https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg',
 'https://telegra.ph/file/05c1b22ee83bcd7723b4d.jpg',
 'https://telegra.ph/file/1d886f66a44871205335f.jpg',
