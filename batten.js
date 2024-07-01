@@ -1406,7 +1406,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 },
  {
  "name": "cta_url",
- "buttonParamsJson": "{\"display_text\":\"Creator\",\"url\":\"https://wa.me/62859106669264\",\"merchant_url\":\"https://wa.me/62859106669264\"}"
+ "buttonParamsJson": "{\"display_text\":\"Creator\",\"url\":\"https://wa.me/628112632902\",\"merchant_url\":\"https://wa.me/628112632902\"}"
  },
  ],
  })
@@ -3074,7 +3074,7 @@ case 'ping': case 'server': {
 freemem
  } = require('os')
 
-    let ownert = '6285601059864@s.whatsapp.net'
+    let ownert = '628112632902@s.whatsapp.net'
             let respon = `⚝ *I N F O R M A T I O N   S E R V E R*\n\n`
 respon += `╭ Respon ${latensi.toFixed(4)} Second\n`
 respon += `│ Memory: ${Math.round(require('os').totalmem / 1024 / 1024)}MB\n`
